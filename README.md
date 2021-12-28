@@ -6,7 +6,7 @@ More details about Spring for Kafka : https://docs.spring.io/spring-kafka/refere
 
 ### Install and Run Kafka
 
-Go to /src/main/resources and run command down below.
+Go to `src/main/resources` and run command down below.
 
 ```
 docker-compose up
